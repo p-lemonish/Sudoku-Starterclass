@@ -20,7 +20,7 @@ docs:
       - title: "Explanation of Rows, Columns, and Boxes"
         url: /docs/basics/explanations
 
-  - title: "Solving Tips - Four Essential Techniques"
+  - title: "Sudoku Solving Tips"
     url: /docs/solving-tips
     children:
       - title: "Single Candidates"
