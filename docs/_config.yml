@@ -21,8 +21,6 @@
 title: Sudoku Starterclass
 email: patrikmihelson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-	Welcome to Sudoku Starterclass, an online tutorial website for Sudoku newcomers and beginners! If you've ever been intrigued by the captivating world of Sudoku but felt overwhelmed by its complexity, you've come to the right place. This website is designed to guide you through the fundamentals of Sudoku, providing step-by-step instructions and helpful tips to ensure you become a master solver in no time.
-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  p-lemonish
@@ -31,8 +29,6 @@ github_username:  p-lemonish
 theme: minima
 plugins:
   - jekyll-feed
-minima:
-  skin: dark
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
