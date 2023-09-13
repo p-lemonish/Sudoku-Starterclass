@@ -1,0 +1,35 @@
+# main links
+main:
+  - title: "Home"
+    url: /docs/home
+
+docs:
+  - title: "Home"
+    url: /docs/home
+    children:
+      - title: "A Brief Introduction to Sudoku"
+        url: /docs/home/introduction-to-sudoku
+      - title: "Benefits of Playing Sudoku"
+        url: /docs/home/benefits-of-playing-sudoku
+
+  - title: "Basics"
+    url: /docs/basics
+    children:
+      - title: "Simple Overview of Sudoku Rules"
+        url: /docs/basics/overview-of-sudoku-rules
+      - title: "Explanation of Rows, Columns, and Boxes"
+        url: /docs/basics/explanations
+
+  - title: "Solving Tips"
+    url: /docs/solving-tips
+    children:
+      - title: "4 Essential Techniques"
+        url: /docs/solving-tips/essential-techniques
+      - title: "Single Candidates"
+        url: /docs/solving-tips/essential-techniques/single-candidates
+      - title: "Naked Candidates"
+        url: /docs/solving-tips/essential-techniques/naked-candidates
+      - title: "Hidden Candidates"
+        url: /docs/solving-tips/essential-techniques/hidden-candidates
+      - title: "Intersection Removal"
+        url: /docs/solving-tips/essential-techniques/intersection-removal
