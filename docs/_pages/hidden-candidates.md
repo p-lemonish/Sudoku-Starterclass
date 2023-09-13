@@ -1,5 +1,5 @@
 ---
-permalink: /docs/solving-tips/essential-techniques/hidden-candidates
+permalink: /docs/solving-tips/hidden-candidates
 sidebar:
   nav: "docs"
 ---

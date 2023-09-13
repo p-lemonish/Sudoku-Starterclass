@@ -1,5 +1,5 @@
 ---
-permalink: /docs/solving-tips/essential-techniques/single-candidates
+permalink: /docs/solving-tips/single-candidates
 sidebar:
   nav: "docs"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: /docs/solving-tips/essential-techniques/intersection-removal/
+permalink: /docs/solving-tips/intersection-removal/
 sidebar:
   nav: "docs"
 ---

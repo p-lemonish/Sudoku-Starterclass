@@ -1,5 +1,5 @@
 ---
-permalink: /docs/solving-tips/essential-techniques/naked-candidates
+permalink: /docs/solving-tips/naked-candidates
 sidebar:
   nav: "docs"
 ---
