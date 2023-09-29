@@ -12,7 +12,6 @@ atom_feed:
   hide: true
 search: true
 include: ["_pages"]
-
 defaults:
   # _pages
   - scope:
@@ -20,4 +19,4 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
