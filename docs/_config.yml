@@ -1,4 +1,5 @@
 title: Sudoku Starterclass - Learn the Art of Sudoku!
+search: true
 plugins:
   - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -6,11 +7,11 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 locale: "en-US"
 name: "Lemonish"
 description: "A website for learning the basics of Sudoku!"
-url: "https://p-lemonish.github.io/Sudoku-Starterclass"
+url: "https://p-lemonish.github.io"
+baseurl: "/Sudoku-Starterclass"
 repository: "p-lemonish/Sudoku-Starterclass"
 atom_feed:
   hide: true
-search: true
 include: ["_pages"]
 defaults:
   # _pages
