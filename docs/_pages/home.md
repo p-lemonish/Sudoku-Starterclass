@@ -20,4 +20,4 @@ As you embark on this Sudoku journey, you'll discover the elegance and simplicit
 ### Benefits of Playing Sudoku
 Playing Sudoku offers a range of cognitive and mental health benefits. It helps improve critical thinking, pattern recognition, and concentration. Additionally, Sudoku provides a relaxing and enjoyable way to challenge yourself. As you progress, you'll experience a sense of accomplishment and satisfaction.
 
-Once you're ready to start learning the rules, head over to [Basics of Sudoku!](/basics)
+Once you're ready to start learning the rules, head over to [Basics of Sudoku!](https://p-lemonish.github.io/Sudoku-Starterclass/basics)

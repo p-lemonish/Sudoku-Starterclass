@@ -79,5 +79,5 @@ As can be seen, the last missing digit on row #7 is 1. Let's add it!
 By following these rules and employing logical reasoning, players can gradually fill in the Sudoku grid until it's completed.
 
 
-Once you're done here, you're ready to head to the next section where you will learn [slightly more advanced solving tips!](/solving-tips)
+Once you're done here, you're ready to head to the next section where you will learn [slightly more advanced solving tips!](https://p-lemonish.github.io/Sudoku-Starterclass/solving-tips)
 
