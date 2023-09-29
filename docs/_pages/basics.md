@@ -11,7 +11,7 @@ header:
 In this section, you will cover the fundamental rules of Sudoku. Learn how to fill in the grid, understand the concept of rows, columns, and boxes, and discover the strategies to ensure that each number appears only once in every row, column, and box. Mastering these rules is the first step towards becoming a Sudoku expert.
 ### Overview of Sudoku Rules
 Sudoku is played on a 9x9 grid, divided into nine 3x3 sub-grids (also called boxes). The objective is to fill in the grid so that each row, column, and 3x3 box contains all the digits from 1 to 9, with no repetition. Remember, every number must appear only once in each row, column, and box.
-![An empty Sudoku grid](/images/basics/empty-grid.png){:style="display: block; margin: auto;"}
+![An empty Sudoku grid](https://p-lemonish.github.io/Sudoku-Starterclass/images/basics/empty-grid.png){:style="display: block; margin: auto;"}
 <div style="text-align: center; font-style: italic; font-size: 0.8em; margin-top: -1.5em">
     An empty Sudoku grid
 </div>
