@@ -91,7 +91,7 @@ As opposed to the example seen previously, the 5-6 naked pair is no longer there
 <div style="text-align: center; font-style: italic; font-size: 0.8em; margin-top: -1.5em">
     Hidden 1 and 2 pair circled for visibility
 </div>
-Since 1 and 2 cannot be place anywhere else in the unit, we can remove all the other candidates from these two cells making the unit neater.
+Since 1 and 2 cannot be placed anywhere else in the unit, we can remove all the other candidates from these two cells making the unit neater.
 ![Hidden Pairs Example](https://p-lemonish.github.io/Sudoku-Starterclass/images/solving-tips/hidden-pair-example-3.png){:style="display: block; margin: auto;"}
 <div style="text-align: center; font-style: italic; font-size: 0.8em; margin-top: -1.5em">
     Exclude all other digits from the 1-2 pair cells due to there being no other possible cells to place those digits in
