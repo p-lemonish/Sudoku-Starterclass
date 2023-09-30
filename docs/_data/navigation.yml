@@ -25,9 +25,9 @@ docs:
   - title: "Sudoku Solving Tips"
     url: /solving-tips
     children:
+      - title: "Writing Down Candidate Numbers in Cells"
+        url: /solving-tips/#writing-down-candidate-numbers-in-cells
       - title: "Naked Candidates"
         url: /solving-tips/#naked-candidates
       - title: "Hidden Candidates"
         url: /solving-tips/#hidden-candidates
-      - title: "Intersection Removal"
-        url: /solving-tips/#intersection-removal
