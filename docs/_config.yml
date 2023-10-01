@@ -5,11 +5,16 @@ plugins:
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale: "en-US"
-name: "Lemonish"
+name: "Patrik Mihelson-Adamson"
 description: "A website for learning the basics of Sudoku!"
 url: "https://p-lemonish.github.io"
 baseurl: "/Sudoku-Starterclass"
 repository: "p-lemonish/Sudoku-Starterclass"
+footer:
+    links:
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/p-lemonish/Sudoku-Starterclass"
 atom_feed:
   hide: true
 include: ["_pages"]

@@ -63,11 +63,12 @@ After noticing the naked 5-6 pair, since there cannot be any other numbers in th
     Eliminate the digits 5 and 6 from all the other cells due to the elimination rule
 </div>
 <details>
-<b>A: There is a 1-2 naked pair that appeared in the top left corner!</b>
-<summary>
-Q: Do you notice the next naked pair appearing after eliminating 5-6 from all the other cells? (click to expand for a hint)
-</summary>
+    <b>A: There is a 1-2 naked pair that appeared in the top left corner!</b>
+    <summary>
+        Q: Do you notice the next naked pair appearing after eliminating 5-6 from all the other cells? (click to expand for a hint)
+    </summary>
 </details>
+{: .notice--info}
 <br>
 What happens to the bottom right corner cell with candidates 1, 7, and 9 in it?
 
