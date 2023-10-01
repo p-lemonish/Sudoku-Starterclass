@@ -27,7 +27,7 @@ docs:
     children:
       - title: "Writing Down Candidate Numbers in Cells"
         url: /solving-tips/#writing-down-candidate-numbers-in-cells
-      - title: "Naked Candidates"
-        url: /solving-tips/#naked-candidates
-      - title: "Hidden Candidates"
-        url: /solving-tips/#hidden-candidates
+      - title: "Naked Pairs"
+        url: /solving-tips/#naked-pairs
+      - title: "Hidden Pairs"
+        url: /solving-tips/#hidden-pairs

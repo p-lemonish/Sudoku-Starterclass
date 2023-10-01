@@ -9,6 +9,21 @@ header:
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 Welcome to Sudoku Starterclass, an online tutorial website for Sudoku newcomers and beginners! If you've ever been intrigued by the captivating world of Sudoku but felt overwhelmed by its complexity, you've come to the right place. This website is designed to guide you through the fundamentals of Sudoku, providing step-by-step instructions and helpful tips to ensure you become a master solver in no time.
+
+Take a look at what this site has to offer:
+
+{% capture notice-2 %}
+**Table of contents**
+* [Sudoku History and Benefits of Playing Sudoku](https://p-lemonish.github.io/Sudoku-Starterclass/#brief-introduction-to-sudoku)
+---
+* [Basics of Sudoku and Your First Tips to Solving Sudoku Puzzles](https://p-lemonish.github.io/Sudoku-Starterclass/basics)
+---
+* [Solving Tips for More Challening Sudoku Puzzles](https://p-lemonish.github.io/Sudoku-Starterclass/solving-tips)
+---
+{% endcapture %}
+<div class="notice--info">
+{{ notice-2 | markdownify}}
+</div>
 ### A Brief Introduction to Sudoku
 Sudoku, a captivating logic-based number placement game, traces its origins to 18th century Switzerland. However, it gained worldwide popularity in the 20th century, particularly in Japan.
 
